@@ -1,0 +1,10 @@
+Act as a professional website copywriter.
+
+Create website content for a local cafe in Vijayawada.
+
+Include:
+1. Homepage (headline, subheadline, about section)
+2. Services (coffee, snacks, desserts description)
+3. Call to Action (visit or order)
+
+Tone: Friendly, simple, attractive
