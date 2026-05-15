@@ -1,0 +1,14 @@
+Homepage:
+Welcome to Vijayawada’s Favorite Cafe!
+Experience the best coffee and cozy ambiance.
+
+About:
+We serve freshly brewed coffee, delicious snacks, and desserts made with love.
+
+Services:
+- Coffee: Espresso, Cappuccino, Latte
+- Snacks: Sandwiches, Burgers
+- Desserts: Cakes, Pastries
+
+CTA:
+Visit us today and enjoy a refreshing coffee experience!
